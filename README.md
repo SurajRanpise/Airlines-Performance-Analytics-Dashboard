@@ -1,7 +1,7 @@
 # ✈️ High Cloud Airlines Performance Analytics
 
 > **End-to-End Power BI Business Intelligence Project**  
-> Transforming historical US airline operational data into actionable business insights using **Power BI, Power Query, DAX, and Star Schema Data Modeling**.
+> Transforming historical US airline operational data into actionable business insights using **SQL, Power BI, Power Query, DAX, and Star Schema Data Modeling**.
 
 ---
 
