@@ -29,6 +29,7 @@ The dashboard provides interactive insights into airline performance, passenger 
 
 # 🛠️ Tools & Technologies
 
+- **MySQL**
 - **Power BI Desktop**
 - **Power Query**
 - **DAX**
@@ -233,7 +234,7 @@ High-Cloud-Airlines-Performance-Analytics
 
 # 👨‍💻 Author
 
-**Shubham Vishwakarma**
+**Suraj Ranpise**
 
 **Data Analyst | MIS Analyst | Power BI Developer**
 
